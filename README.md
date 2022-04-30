@@ -1,4 +1,4 @@
-# analytics_and_datas
+# Analytics and Datas
 
 ## Este repositório tem como intuito disponibilizar códigos que sempre são utilizados em projetos na área de dados.
 
